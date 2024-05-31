@@ -52,3 +52,42 @@ if __name__ == '__main__':
     for quest in quests:
         print(quest)
         print(player_data.get(quest, 0))
+
+
+'''
+https://idle-pixel.wiki/index.php/Quests
+fertiliser from ent
+
+var_ice_witch_max_mana_2	1
+var_max_mana_1	0
+var_max_mana_1_used	1
+var_max_mana_2	0
+var_max_mana_2_unique	1
+var_max_mana_2_used	1
+var_max_mana_3	0
+var_max_mana_3_bought	1
+var_max_mana_3_used	1
+var_max_mana_4	0
+var_max_mana_4_unique	1
+var_max_mana_4_used	1
+
+var_blood_wolf_max_heart_5	1
+var_fire_witch_max_heart_2	1
+var_ice_witch_max_heart_3	1
+var_max_heart_1	0
+var_max_heart_1_unique	1
+var_max_heart_1_used	1
+var_max_heart_2	0
+var_max_heart_2_unique	1
+var_max_heart_2_used	1
+var_max_heart_3	0
+var_max_heart_3_unique	1
+var_max_heart_3_used	1
+var_max_heart_4	0
+var_max_heart_4_bought	1
+var_max_heart_4_used	1
+var_max_heart_5	0
+var_max_heart_5_unique	1
+var_max_heart_5_used	1
+var_wolf_max_heart_1	1
+'''
